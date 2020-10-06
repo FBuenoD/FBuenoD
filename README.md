@@ -10,7 +10,7 @@
 #### ⚡ My Contributions
 
 <center>
-  <table>
+  <table style="overflow: hidden">
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fbuenod&count_private=true&show_icons=true" /></td>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuenod&hide=html&layout=compact" /></td>
