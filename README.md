@@ -9,12 +9,14 @@
 
 #### ⚡ My Contributions
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fbuenod&count_private=true&show_icons=true" />
-</a>
-<a> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuenod&layout=compact" />
-</a>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuenod&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fbuenod" /></td>
+    </tr>   
+  </table>
+</center> 
 
 <!--**FBuenoD/fbuenod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
