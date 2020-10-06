@@ -10,7 +10,7 @@
 #### ⚡ My Contributions
 
 <a> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fbuenod&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuenod&layout=compact" />
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuenod" />
