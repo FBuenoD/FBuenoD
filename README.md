@@ -9,7 +9,7 @@
 
 #### ⚡ My Contributions
 
-<center style="overflow: hidden;">
+<center>
   <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fbuenod&count_private=true&show_icons=true" /></td>
