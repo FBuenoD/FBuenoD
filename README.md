@@ -9,11 +9,9 @@
 
 #### ⚡ My Contributions
 
-<center>
-  <table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandobdansi&count_private=true&show_icons=true" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobdansi&hide=html&layout=compact" /></td>
-    </tr>   
-  </table>
-</center> 
+---
+
+![Fernando Bueno Dansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandobdansi&show_icons=true&count_private=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobdansi&hide=html&layout=compact&langs_count=8&theme=dark)
+
+---
