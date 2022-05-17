@@ -1,6 +1,6 @@
 ---
 ### Hi there 👋
-#### 🎓 Sou Técnico em Informática & Bacharel em Sistemas de Informação pelo IFES - Instituto Federal do Espírito Santo.
+#### 🎓 Sou Bacharel em Sistemas de Informação & Técnico em Informática pelo IFES - Instituto Federal do Espírito Santo.
 <p align="center">
  <img 
       width="50%" 
