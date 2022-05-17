@@ -1,7 +1,6 @@
 ---
 ### Hi there 👋
-#### 🎓 Técnico em Informática - IFES - Campus Cachoeiro de Itapemirim
-#### 🎓 Sistemas de Informação - IFES - Campus Cachoeiro de Itapemirim
+#### 🎓 Sou Técnico em Informática & Bacharel em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES.
 <p align="center">
  <img 
       width="50%" 
