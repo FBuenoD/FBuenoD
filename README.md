@@ -11,11 +11,6 @@
 
 ---
 <div align="center">
-
-![Fernando Bueno Dansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandobdansi&show_icons=true&count_private=true&theme=dark)
- 
-</div>
-<div align="center">
  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobdansi&hide=html&layout=compact&langs_count=8&theme=dark)
 
